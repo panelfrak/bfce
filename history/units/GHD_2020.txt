@@ -1,0 +1,37 @@
+﻿division_template = {
+	name = ""
+
+	regiments = {
+		motorized = { x = 0 y = 0 }
+		motorized = { x = 0 y = 1 }
+		motorized = { x = 0 y = 2 }
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+		motorized = { x = 1 y = 2 }
+	}
+	
+	support = {
+		signal_company = { x = 0 y = 0 }
+		logistics_company = { x = 0 y = 1 }
+		engineer = { x = 0 y = 2 }
+	}
+}
+
+units = {
+	division = {
+		name = ""
+		location = 
+		division_template = ""
+		start_experience_factor = 0.70
+		start_equipment_factor = 1
+	}
+}
+
+instant_effect = {
+
+	add_equipment_to_stockpile = {
+		type = 
+		amount = 1000
+	}
+
+}

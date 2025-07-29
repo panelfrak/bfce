@@ -1,0 +1,10 @@
+﻿units = {
+	fleet = {
+		name = ""
+		naval_base =
+		task_force = {
+			name = ""
+			location =
+		}   
+	}	   
+}

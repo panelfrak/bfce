@@ -1,0 +1,2 @@
+#### THE LOUD RISES ####
+GDG = "countries/Grand Duchy of the Gàidhealtachd.txt"

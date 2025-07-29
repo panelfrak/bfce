@@ -1,0 +1,10 @@
+focus_tree = {
+	id = GYT_Focus_Tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = GYT
+		}
+	}
+}

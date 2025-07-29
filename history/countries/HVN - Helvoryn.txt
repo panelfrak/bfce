@@ -1,0 +1,43 @@
+capital = 
+
+set_research_slots = 4
+set_convoys = 1000
+set_stability = 0.75
+set_war_support = 0.75
+	
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+		set_oob = ""
+}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_oob = ""
+}
+	
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = ""
+	else = {
+		set_naval_oob = ""
+	}
+}
+
+add_ideas = {
+		
+}
+
+set_politics = {
+
+}
+
+set_popularities = {
+
+}
+

@@ -1,0 +1,10 @@
+focus_tree = {
+	id = TCE_Focus_Tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = TCE
+		}
+	}
+}

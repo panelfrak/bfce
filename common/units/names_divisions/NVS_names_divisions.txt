@@ -1,0 +1,17 @@
+﻿ZZZ_INF_01 = 
+{
+	name = ""
+
+	for_countries = { ZZZ }
+
+	can_use = { always = yes }
+
+	division_types = { }
+
+	fallback_name = ""
+
+	ordered =
+	{
+
+	}
+}
